@@ -34,4 +34,4 @@ This project is an AI-based Emotion Detection System that analyzes facial expres
 
 ## 👨‍💻 Author
 
-Jaydeep
+Choppa Jaydeep
